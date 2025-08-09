@@ -1,0 +1,24 @@
+p{
+    color: blue;
+}
+#latest{
+    background-color: blueviolet;
+}
+.navigation{
+    margin: 2px;
+}
+p.introduction { 
+    margin: 2px;
+  }
+#blog div h1{
+    color: aqua;
+}
+#blog p{
+    color: black;
+}
+#blog > h1 {
+    color: blue;
+  }
+  a:hover {
+    color: orange;
+  }
